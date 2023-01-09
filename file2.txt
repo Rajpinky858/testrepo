@@ -1,0 +1,4 @@
+Hi,
+This is one more file. 
+Editing from git.
+Lets commit to remote repo.
